@@ -1,6 +1,10 @@
 # chat_app
 
-A new Flutter project.
+A chat app
+ that contain firebase
+ Authentication
+ fire store database
+ streambuilder
 
 ## Getting Started
 
